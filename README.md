@@ -3,6 +3,8 @@
 
 *Unfortunately, the academic integrity policies at Cornell University prohibit making source code from course projects publicly available. However, we have received permission from the instructor to share the repository with individual employers. Feel free to contact me, if you find this project interesting and wish to view the source code!*
 
+*Below is the project description*
+
 **DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF
 THIS REPOSITORY WITH SOLUTION CODE PRIVATE.**
 
