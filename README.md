@@ -1,5 +1,5 @@
-# multi-paxos
-## (CS 5412 - Cornell University) Distributed Computing Principles Capstone Project
+# MultiPaxosDB - A linearizable, sharded key-value store with multi-key updates and dynamic load balancing
+## [CS 5412 - Cornell University] Distributed Computing Principles Capstone Project
 
 *Unfortunately, the academic integrity policies at Cornell University prohibit making source code from course projects publicly available. However, we have received permission from the instructor to share the repository with individual employers. Feel free to contact me, if you find this project interesting and wish to view the source code!*
 
